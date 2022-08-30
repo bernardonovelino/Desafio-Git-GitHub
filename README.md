@@ -29,3 +29,5 @@ https://celsokitamura.com.br/o-que-e-compilador/
 
 https://blog.betrybe.com/tecnologia/compilador-o-que-e/
 
+#### Estrutura de Dados em C
+http://linguagemc.com.br
