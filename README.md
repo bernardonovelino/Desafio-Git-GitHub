@@ -31,3 +31,5 @@ https://blog.betrybe.com/tecnologia/compilador-o-que-e/
 
 #### Estrutura de Dados em C
 http://linguagemc.com.br
+##### Struct e Aninhada
+http://linguagemc.com.br/struct-em-c/
